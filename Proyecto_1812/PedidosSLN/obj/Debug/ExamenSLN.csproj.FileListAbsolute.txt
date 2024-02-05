@@ -1,0 +1,43 @@
+D:\UTN\TUP PROG II\Examen Final 24-07-23\Envios_240723\PedidosSLN\obj\Debug\ExamenSLN.csproj.AssemblyReference.cache
+D:\UTN\TUP PROG II\Examen Final 24-07-23\Envios_240723\PedidosSLN\obj\Debug\ExamenSLN.csproj.SuggestedBindingRedirects.cache
+D:\UTN\TUP PROG II\Examen Final 24-07-23\Envios_240723\PedidosSLN\obj\Debug\ExamenSLN.presentación.FrmConsultar.resources
+D:\UTN\TUP PROG II\Examen Final 24-07-23\Envios_240723\PedidosSLN\obj\Debug\RecetasSLN.Properties.Resources.resources
+D:\UTN\TUP PROG II\Examen Final 24-07-23\Envios_240723\PedidosSLN\obj\Debug\ExamenSLN.csproj.GenerateResource.cache
+D:\UTN\TUP PROG II\Examen Final 24-07-23\Envios_240723\PedidosSLN\obj\Debug\ExamenSLN.csproj.CoreCompileInputs.cache
+D:\UTN\TUP PROG II\Examen Final 24-07-23\Envios_240723\PedidosSLN\obj\Debug\RecetasSLN.exe
+D:\UTN\TUP PROG II\Examen Final 24-07-23\Envios_240723\PedidosSLN\obj\Debug\RecetasSLN.pdb
+D:\UTN\TUP PROG II\Examen Final 24-07-23\Envios_240723\PedidosSLN\bin\Debug\RecetasSLN.exe.config
+D:\UTN\TUP PROG II\Examen Final 24-07-23\Envios_240723\PedidosSLN\bin\Debug\RecetasSLN.exe
+D:\UTN\TUP PROG II\Examen Final 24-07-23\Envios_240723\PedidosSLN\bin\Debug\RecetasSLN.pdb
+D:\UTN\TUP PROG II\Examen Final 05-12-23\Envios_070823\PedidosSLN\obj\Debug\ExamenSLN.csproj.AssemblyReference.cache
+D:\UTN\TUP PROG II\Examen Final 05-12-23\Envios_070823\PedidosSLN\obj\Debug\ExamenSLN.csproj.SuggestedBindingRedirects.cache
+D:\UTN\TUP PROG II\Examen Final 05-12-23\Envios_070823\PedidosSLN\obj\Debug\ExamenSLN.presentación.FrmConsultar.resources
+D:\UTN\TUP PROG II\Examen Final 05-12-23\Envios_070823\PedidosSLN\obj\Debug\RecetasSLN.Properties.Resources.resources
+D:\UTN\TUP PROG II\Examen Final 05-12-23\Envios_070823\PedidosSLN\obj\Debug\ExamenSLN.csproj.GenerateResource.cache
+D:\UTN\TUP PROG II\Examen Final 05-12-23\Envios_070823\PedidosSLN\obj\Debug\ExamenSLN.csproj.CoreCompileInputs.cache
+D:\UTN\TUP PROG II\Examen Final 05-12-23\Envios_070823\PedidosSLN\obj\Debug\RecetasSLN.exe
+D:\UTN\TUP PROG II\Examen Final 05-12-23\Envios_070823\PedidosSLN\obj\Debug\RecetasSLN.pdb
+D:\UTN\TUP PROG II\Examen Final 05-12-23\Envios_070823\PedidosSLN\bin\Debug\RecetasSLN.exe.config
+D:\UTN\TUP PROG II\Examen Final 05-12-23\Envios_070823\PedidosSLN\bin\Debug\RecetasSLN.exe
+D:\UTN\TUP PROG II\Examen Final 05-12-23\Envios_070823\PedidosSLN\bin\Debug\RecetasSLN.pdb
+D:\UTN\TUP PROG II\Examen 18-12-23\Proyecto_1812\PedidosSLN\bin\Debug\RecetasSLN.exe.config
+D:\UTN\TUP PROG II\Examen 18-12-23\Proyecto_1812\PedidosSLN\bin\Debug\RecetasSLN.exe
+D:\UTN\TUP PROG II\Examen 18-12-23\Proyecto_1812\PedidosSLN\bin\Debug\RecetasSLN.pdb
+D:\UTN\TUP PROG II\Examen 18-12-23\Proyecto_1812\PedidosSLN\obj\Debug\ExamenSLN.csproj.AssemblyReference.cache
+D:\UTN\TUP PROG II\Examen 18-12-23\Proyecto_1812\PedidosSLN\obj\Debug\ExamenSLN.csproj.SuggestedBindingRedirects.cache
+D:\UTN\TUP PROG II\Examen 18-12-23\Proyecto_1812\PedidosSLN\obj\Debug\ExamenSLN.Presentacion.Frm_Alta.resources
+D:\UTN\TUP PROG II\Examen 18-12-23\Proyecto_1812\PedidosSLN\obj\Debug\RecetasSLN.Properties.Resources.resources
+D:\UTN\TUP PROG II\Examen 18-12-23\Proyecto_1812\PedidosSLN\obj\Debug\ExamenSLN.csproj.GenerateResource.cache
+D:\UTN\TUP PROG II\Examen 18-12-23\Proyecto_1812\PedidosSLN\obj\Debug\ExamenSLN.csproj.CoreCompileInputs.cache
+D:\UTN\TUP PROG II\Examen 18-12-23\Proyecto_1812\PedidosSLN\obj\Debug\RecetasSLN.exe
+D:\UTN\TUP PROG II\Examen 18-12-23\Proyecto_1812\PedidosSLN\obj\Debug\RecetasSLN.pdb
+C:\Users\r4yn1\OneDrive\Desktop\febrero 2024\programacion II\Ejercicios\final\Proyecto_1812\PedidosSLN\bin\Debug\RecetasSLN.exe.config
+C:\Users\r4yn1\OneDrive\Desktop\febrero 2024\programacion II\Ejercicios\final\Proyecto_1812\PedidosSLN\bin\Debug\RecetasSLN.exe
+C:\Users\r4yn1\OneDrive\Desktop\febrero 2024\programacion II\Ejercicios\final\Proyecto_1812\PedidosSLN\bin\Debug\RecetasSLN.pdb
+C:\Users\r4yn1\OneDrive\Desktop\febrero 2024\programacion II\Ejercicios\final\Proyecto_1812\PedidosSLN\obj\Debug\ExamenSLN.csproj.AssemblyReference.cache
+C:\Users\r4yn1\OneDrive\Desktop\febrero 2024\programacion II\Ejercicios\final\Proyecto_1812\PedidosSLN\obj\Debug\ExamenSLN.Presentacion.Frm_Alta.resources
+C:\Users\r4yn1\OneDrive\Desktop\febrero 2024\programacion II\Ejercicios\final\Proyecto_1812\PedidosSLN\obj\Debug\RecetasSLN.Properties.Resources.resources
+C:\Users\r4yn1\OneDrive\Desktop\febrero 2024\programacion II\Ejercicios\final\Proyecto_1812\PedidosSLN\obj\Debug\ExamenSLN.csproj.GenerateResource.cache
+C:\Users\r4yn1\OneDrive\Desktop\febrero 2024\programacion II\Ejercicios\final\Proyecto_1812\PedidosSLN\obj\Debug\ExamenSLN.csproj.CoreCompileInputs.cache
+C:\Users\r4yn1\OneDrive\Desktop\febrero 2024\programacion II\Ejercicios\final\Proyecto_1812\PedidosSLN\obj\Debug\RecetasSLN.exe
+C:\Users\r4yn1\OneDrive\Desktop\febrero 2024\programacion II\Ejercicios\final\Proyecto_1812\PedidosSLN\obj\Debug\RecetasSLN.pdb
